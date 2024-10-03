@@ -45,6 +45,7 @@ SMART CONTRACT COMPILATION AND DEPLOYMENT:
   1) truffle init -> Initialize truffle project.
   2) truffle compile -> Compile the smart contracts.
   3) truffle migrate --network development -> Deploy the contracts to the development network.
+
 After deployment, Truffle generates a corresponding JSON file for each smart contract inside the build/contracts/ directory that contains important information about the deployed contracts.
 
 RUNNING THE REACT UI:

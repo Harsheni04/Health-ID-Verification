@@ -30,7 +30,7 @@ h3 {
     border: 1px solid #ccc;
     border-radius: 4px;
     font-size: 16px;
-    box-sizing: border-box; /* Ensures the padding and border are included in the width */
+    box-sizing: border-box; 
 }
 
 .action-button {
@@ -42,7 +42,7 @@ h3 {
     cursor: pointer;
     width: 100%;
     font-size: 16px;
-    box-sizing: border-box; /* Ensures the button fits within the container */
+    box-sizing: border-box; 
 }
 
 .action-button:hover {
